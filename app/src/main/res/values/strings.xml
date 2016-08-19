@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="app_name">CubeBaby</string>
+	<string name="ChangeLog">方块宝宝[永久免费]\n Ver 1.00[正式版]:\n - 实现主体功能 \n - 支持Android2.1 \n - 增加了多种背景图片！\n - 完成基础内测！</string>
+	<string name="picFilePrefix">pic</string>
+	<string name="picFileVarientMin">1</string>
+	<string name="picFileVarientMax">16</string>
+</resources>
