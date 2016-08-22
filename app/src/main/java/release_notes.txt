@@ -1,0 +1,7 @@
+20160822
+A-说明：
+1.将此项目放到gitlab,coding,oschina,csdn四个代码托管平台的git远端仓库中，不再使用github;
+  (因为github只能建立共有project，不支持免费的私有项目）
+
+B-功能：
+1.恢复原来的代码，放入IntelliJ平台，用gradle编译运行生成apk放到手机测试OK。
